@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Typing Test</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <style>
+        /* Custom styles if needed */
+    </style>
+</head>
+<body class="bg-gray-900 text-white">
+    <div class="container mx-auto px-4">
+        <header class="flex justify-between items-center py-4">
+            <div>
+                <a href="#" class="text-yellow-400 text-3xl font-bold">monkeytype</a>
+            </div>
+            <div>
+                <a href="#" class="text-yellow-400">Check out our merchandise, available at monkeytype.store</a>
+            </div>
+        </header>
+
+        <!-- Typing test interface -->
+        <section class="mt-6">
+            <div class="text-center">
+                <div class="inline-block bg-gray-800 p-6 rounded-lg">
+                    <p class="text-xl leading-relaxed">
+                        house find be group system because much head point have school present could so never there new way eye set fact good end such life play fact tell could few leave have who order ask very people than thing leave find problem great order become
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Footer with links -->
+        <footer class="flex justify-between items-center py-4 border-t border-gray-800 mt-6">
+            <div class="flex items-center">
+                <a href="#" class="text-gray-500 text-sm mr-4">Contact & Support</a>
+                <a href="#" class="text-gray-500 text-sm mr-4">GitHub</a>
+                <a href="#" class="text-gray-500 text-sm mr-4">Discord</a>
+                <a href="#" class="text-gray-500 text-sm">Twitter</a>
+            </div>
+            <div class="flex items-center">
+                <a href="#" class="text-gray-500 text-sm mr-4">Terms</a>
+                <a href="#" class="text-gray-500 text-sm">Security & Privacy</a>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>
